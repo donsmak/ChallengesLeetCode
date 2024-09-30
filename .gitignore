@@ -1,5 +1,7 @@
 minMaxSum/
 PlusMinus/
 MyClendar/
+node_modules/
 sumPrefixScores/
 */node_modules
+node_modules/*/**
